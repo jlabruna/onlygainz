@@ -1,8 +1,7 @@
-# React + Vite
+# ONLYGAINZ
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Go from Couch Potato to Ouch, Brotato!
 
-Currently, two official plugins are available:
+A no-nonsense workout app in the process of being built. This readme will be updated with more info once it has been written.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Stay frosty, cheesebags.
