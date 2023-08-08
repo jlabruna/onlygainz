@@ -17,7 +17,8 @@ function App() {
         </a>
       </div> */}
       <h1>Welcome to ONLYGAINZ</h1>
-      <h2><em>The only workout app that is written in all capitals.</em></h2>
+      <h2><em>The only workout app that is written in ALL CAPITALS.</em></h2>
+      <img src="https://th.bing.com/th/id/R.76db349840bc7be8df1afb93f8100007?rik=HU8MWEoMsGZc1w&riu=http%3a%2f%2fgenerationiron.com%2fwp-content%2fuploads%2f2014%2f11%2fdolph-lundgren-756582929.jpg&ehk=OdfHFbFi8nhLJtEY49%2bnE5YPP4sI%2f4GCX3dbmDCIkCc%3d&risl=&pid=ImgRaw&r=0" height="600"/>
       <div className="card">
         <button onClick={() => setCount((count) => count + 1)}>
           count is {count}
